@@ -5,7 +5,7 @@
 
 .row-content{
     margin: 0px auto;
-    padding: 30px 0px 30px 0px;
+    padding: 50px 0px 50px 0px;
 }
 .footer{
     background-color: #D1C4E9;
@@ -22,4 +22,11 @@ address{
     margin: 0;
     color: #0f0f0f;
     font-size: 80%;
+}
+body{
+    padding: 50px 0 0 0;
+    z-index: 0;
+}
+.navbar-dark {
+    background-color: #512da8;
 }
